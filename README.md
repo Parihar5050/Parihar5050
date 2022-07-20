@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parihar5050
-- 👀 I’m interested in apps,technologies
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Application Development and devops
+- 🌱 I’m currently learning Java
 - 📫 How to reach me www.linkedin.com/in/aditya-parihar-296358220
 
 <!---
